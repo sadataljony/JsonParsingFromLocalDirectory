@@ -1,0 +1,57 @@
+{
+    "responseCode": "200",
+    "responseMessage": "Recode Fetch Successfully!",
+    "responseTime": "10:22",
+    "employeesList": [
+        {
+            "empId": "1",
+            "empName": "Mohammad",
+            "empFatherName": "Mr Abdus",
+            "empSalary": "40000",
+            "empDesignation": "Junior Software Engineer",
+            "leaveBalance": "3",
+            "pfBalance": "60,000",
+            "pfAccountNo.": "12345678"
+        },
+        {
+            "empId": "2",
+            "empName": "Sadat",
+            "empFatherName": "Mr Shaker",
+            "empSalary": "50000",
+            "empDesignation": "Software Engineer",
+            "leaveBalance": "3",
+            "pfBalance": "60,000",
+            "pfAccountNo.": "12345678"
+        },
+        {
+            "empId": "3",
+            "empName": "Jony",
+            "empFatherName": "Mr Abdus Shaker",
+            "empSalary": "60000",
+            "empDesignation": "Senior Software Engineer",
+            "leaveBalance": "3",
+            "pfBalance": "60,000",
+            "pfAccountNo.": "12345678"
+        },
+        {
+            "empId": "4",
+            "empName": "Aminul Haque",
+            "empFatherName": "Mr Kabirul Haque",
+            "empSalary": "80000",
+            "empDesignation": "CEO",
+            "leaveBalance": "3",
+            "pfBalance": "60,000",
+            "pfAccountNo.": "12345678"
+        },
+        {
+            "empId": "5",
+            "empName": "Irfan Rafique",
+            "empFatherName": "Mr Istiaq Rafique",
+            "empSalary": "100000",
+            "empDesignation": "Founder",
+            "leaveBalance": "3",
+            "pfBalance": "60,000",
+            "pfAccountNo.": "12345678"
+        }
+    ]
+}
